@@ -1,7 +1,7 @@
 # ************************************************************
 #
 # This step will use artifact plugin to save artifact
-#
+# Please copy file or folder to FLOW_ARTIFACTS
 #
 #   Outputs:
 #
